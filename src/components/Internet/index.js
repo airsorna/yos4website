@@ -6,9 +6,7 @@ import {
     InternetH1,
 } from './InternetElements'
 
-const InternetSection = ({ 
-
-}) => {
+const InternetSection = () => {
     return (
         <>
             <InternetContainer id='internet'>
