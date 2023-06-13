@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yos4website/static/css/main.d7da34c1.css",
+    "main.js": "/yos4website/static/js/main.d8314a65.js",
+    "static/media/Wireframe1.jpg": "/yos4website/static/media/Wireframe1.6cef905c5a4e1b39477b.jpg",
+    "static/media/IMG20220815144349.jpg": "/yos4website/static/media/IMG20220815144349.1a18c9f88627b4bafc65.jpg",
+    "index.html": "/yos4website/index.html",
+    "main.d7da34c1.css.map": "/yos4website/static/css/main.d7da34c1.css.map",
+    "main.d8314a65.js.map": "/yos4website/static/js/main.d8314a65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7da34c1.css",
+    "static/js/main.d8314a65.js"
+  ]
+}
