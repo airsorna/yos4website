@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/yos4website/static/css/main.d7da34c1.css",
-    "main.js": "/yos4website/static/js/main.d8314a65.js",
-    "static/media/Wireframe1.jpg": "/yos4website/static/media/Wireframe1.6cef905c5a4e1b39477b.jpg",
-    "static/media/IMG20220815144349.jpg": "/yos4website/static/media/IMG20220815144349.1a18c9f88627b4bafc65.jpg",
-    "index.html": "/yos4website/index.html",
-    "main.d7da34c1.css.map": "/yos4website/static/css/main.d7da34c1.css.map",
-    "main.d8314a65.js.map": "/yos4website/static/js/main.d8314a65.js.map"
+    "main.css": "/static/css/main.d7da34c1.css",
+    "main.js": "/static/js/main.f20738f4.js",
+    "static/media/Wireframe1.webp": "/static/media/Wireframe1.e73e991ad06910ff8157.webp",
+    "static/media/IMG20220815144349.webp": "/static/media/IMG20220815144349.138b8052706cb22be376.webp",
+    "static/media/PicsArt_10-09-08.22.48.webp": "/static/media/PicsArt_10-09-08.22.48.7cb3db20f8e8f26621f7.webp",
+    "index.html": "/index.html",
+    "main.d7da34c1.css.map": "/static/css/main.d7da34c1.css.map",
+    "main.f20738f4.js.map": "/static/js/main.f20738f4.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.d8314a65.js"
+    "static/js/main.f20738f4.js"
   ]
 }
